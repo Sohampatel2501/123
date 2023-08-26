@@ -1,0 +1,7 @@
+@echo off
+
+start https://www.youtube.com/
+
+start https://www.jetking.co/learn
+
+start https://replit.com/~
